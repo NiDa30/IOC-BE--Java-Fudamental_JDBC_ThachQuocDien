@@ -1,0 +1,10 @@
+Shape: R1
+Area: 52.5
+Perimeter: 31.0
+Drawing a Rectangle: R1 (Width: 10.5, Height: 5.0)
+-------------------------
+Shape: C1
+Area: 63.61725123519331
+Perimeter: 28.274333882308138
+Drawing a Circle: C1 (Radius: 4.5)
+-------------------------
